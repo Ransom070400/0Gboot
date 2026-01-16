@@ -83,7 +83,7 @@ function App() {
         </main>
 
         <footer className="py-8 text-center text-gray-400 text-[10px] uppercase tracking-widest font-medium">
-          © 2026 0G Labs • Built for the Open Web
+          © 2026 0G Labs • 
         </footer>
       </div>
 
