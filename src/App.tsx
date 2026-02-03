@@ -61,7 +61,7 @@ function App() {
             
             <div className="text-right hidden xs:block">
               <h1 className="text-sm font-bold text-gray-900 uppercase tracking-widest">Spin & Win</h1>
-              <p className="text-[10px] text-gray-400 font-medium">ETF BOOTH EXCLUSIVE</p>
+              <p className="text-[10px] text-gray-400 font-medium">ETF BOOTH </p>
             </div>
           </div>
         </header>
